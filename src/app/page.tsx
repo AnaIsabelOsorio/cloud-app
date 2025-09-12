@@ -14,14 +14,13 @@ export default function Home() {
         />
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
           <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/app/page.tsx
-            </code>
-            .
+            Ana Isabel Patiño Osorio
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
+            Jonathan Andrés Granda Orrego.
+          </li>
+          <li className="tracking-[-.01em]">
+            Cristian Daniel Muñoz Botero 
           </li>
         </ol>
 
