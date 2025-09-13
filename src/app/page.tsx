@@ -14,14 +14,18 @@ export default function Home() {
         />
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
           <li className="mb-2 tracking-[-.01em]">
-            Ana Isabel Patiño Osorio
+            Ana Isabel Patiño Osorio.
           </li>
           <li className="tracking-[-.01em]">
             Jonathan Andrés Granda Orrego.
           </li>
           <li className="tracking-[-.01em]">
-            Cristian Daniel Muñoz Botero 
+            Cristian Daniel Muñoz Botero. 
           </li>
+          <li className="tracking-[-.01em]">
+            Este es un cambio para ver si se ve reflejado el commit. 
+          </li>
+
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
