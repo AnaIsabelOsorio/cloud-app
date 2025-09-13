@@ -23,7 +23,7 @@ export default function Home() {
             Cristian Daniel Muñoz Botero. 
           </li>
           <li className="tracking-[-.01em]">
-            Este es un cambio para ver si se ve reflejado el commit. 
+            Este es un cambio para ver si se ve reflejado el commit en AWS Amplify. 
           </li>
 
         </ol>
